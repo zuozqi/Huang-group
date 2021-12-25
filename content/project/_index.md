@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Events
+title: 课题组近期项目
 
 # View.
 #   1 = List
