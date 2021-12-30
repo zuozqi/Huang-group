@@ -23,7 +23,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
 - 低温流体气液相变
 - 低温推进剂热管理
-- 低温可视化实验
+- 低温可视化实验系统
 
 education:
   courses:
