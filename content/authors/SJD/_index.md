@@ -25,10 +25,10 @@ interests:
 
 education:
   courses:
-  - course: Ph.D. in Power Engineering and Engineering Thermophysics
+  - course: Doctor of Philosophy
     institution: 上海交通大学
     year: 2021-now
-  - course: BSc in Energy and Power Engineering
+  - course: Bachelor of Science
     institution: 上海交通大学
     year: 2017-2021
 
