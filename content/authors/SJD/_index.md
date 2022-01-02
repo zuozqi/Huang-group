@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include cryogenics, renewable energy and phase change.
+bio: Never underestimate the heart of a champion
 
 interests:
 - 听君一席话
@@ -36,19 +36,19 @@ education:
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:sjdwithms@outlook.com'
+# social:
+# - icon: envelope
+#   icon_pack: fas
+#   link: 'mailto:vicinsjtu@sjtu.edu.cn'
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: 
-- icon: github
-  icon_pack: fab
-  link: https://github.com/JiadongSUN
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/JiadongSUN
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: atom
@@ -56,7 +56,7 @@ social:
   link: https://sjdsays.netlify.app
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "sjdwithms@outlook.com"
+email: "vicinsjtu@sjtu.edu.cn"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
