@@ -15,24 +15,22 @@ role: Ph.D. student
 # Organizations/Affiliations
 organizations:
 - name: 上海交通大学
-  url: ""
+  url: "sjdsays.netlify.app"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include cryogenics, renewable energy and phase change.
 
 interests:
-- 低温流体气液相变
-- 聊天
-- 低温可视化实验
+- 听君一席话
 
 education:
   courses:
-  - course: Ph.D. in Power and Engineering
+  - course: Ph.D. student in Power Engineering and Engineering Thermophysics
     institution: 上海交通大学
-    year: 2021
-  - course: BSc in Power and Engineering
+    year: 2021-now
+  - course: BSc in Power and Energy Engineering
     institution: 上海交通大学
-    year: 2017
+    year: 2017-2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -41,24 +39,24 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:mrzuozhongqi@gmail.com'
+  link: 'mailto:sjdwithms@outlook.com'
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?hl=zh-TW&pli=1&user=RySh-W8AAAAJ
+  link: 
 - icon: github
   icon_pack: fab
-  link: https://github.com/zuozqi
+  link: https://github.com/JiadongSUN
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+#- icon: cv
+#  icon_pack: ai
+#  link: 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "sjdwithms@outlook.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -66,4 +64,4 @@ user_groups:
 - PhD Students
 ---
 
-左忠琪是个好人。
+永远不要低估一颗冠军的心。

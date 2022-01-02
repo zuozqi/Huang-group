@@ -24,6 +24,7 @@ interests:
 - 低温流体气液相变
 - 低温推进剂热管理
 - 低温可视化实验
+- 原子弹制造与维修
 
 education:
   courses:
