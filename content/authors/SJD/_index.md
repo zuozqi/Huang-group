@@ -15,7 +15,7 @@ role: Ph.D. student
 # Organizations/Affiliations
 organizations:
 - name: 上海交通大学
-  url: "sjdsays.netlify.app"
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include cryogenics, renewable energy and phase change.
@@ -25,10 +25,10 @@ interests:
 
 education:
   courses:
-  - course: Ph.D. student in Power Engineering and Engineering Thermophysics
+  - course: Ph.D. in Power Engineering and Engineering Thermophysics
     institution: 上海交通大学
     year: 2021-now
-  - course: BSc in Power and Energy Engineering
+  - course: BSc in Energy and Power Engineering
     institution: 上海交通大学
     year: 2017-2021
 
@@ -43,17 +43,17 @@ social:
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: 
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: 
 - icon: github
   icon_pack: fab
   link: https://github.com/JiadongSUN
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-#- icon: cv
-#  icon_pack: ai
-#  link: 
+- icon: cv
+  icon_pack: ai
+  link: sjdsays.netlify.appp
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "sjdwithms@outlook.com"
