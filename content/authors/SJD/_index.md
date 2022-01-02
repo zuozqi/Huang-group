@@ -21,7 +21,7 @@ organizations:
 bio: Never underestimate the heart of a champion
 
 interests:
-- 听君一席话
+- various
 
 education:
   courses:
@@ -36,16 +36,16 @@ education:
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-# social:
+social:
 # - icon: envelope
 #   icon_pack: fas
 #   link: 'mailto:vicinsjtu@sjtu.edu.cn'
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: 
+# - icon: google-scholar
+#   icon_pack: ai
+#   link: 
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/JiadongSUN
@@ -64,4 +64,4 @@ user_groups:
 - PhD Students
 ---
 
-永远不要低估一颗冠军的心。
+请通过原子链接（头像下方）进入主页。
