@@ -61,7 +61,7 @@ email: "vicinsjtu@sjtu.edu.cn"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD Students
+- 博士生
 ---
 
 请通过原子链接（头像下方）进入主页。

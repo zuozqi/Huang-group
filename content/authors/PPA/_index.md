@@ -63,7 +63,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Ms Students
+- 硕士生
 ---
 
 左忠琪是个好人。
