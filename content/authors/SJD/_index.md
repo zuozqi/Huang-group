@@ -25,10 +25,10 @@ interests:
 
 education:
   courses:
-  - course: Doctor of Philosophy
+  - course: Ph.D.
     institution: 上海交通大学
     year: 2021-now
-  - course: Bachelor of Science
+  - course: B.Sc.
     institution: 上海交通大学
     year: 2017-2021
 
@@ -49,8 +49,7 @@ social:
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/JiadongSUN
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+
 - icon: atom
   icon_pack: fas
   link: https://sjdsays.netlify.app
@@ -64,4 +63,4 @@ user_groups:
 - 博士生
 ---
 
-请通过原子链接（头像下方）进入主页。
+For more information → link: https://sjdsays.netlify.app
